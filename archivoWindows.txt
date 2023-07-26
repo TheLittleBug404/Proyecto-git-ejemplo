@@ -1,0 +1,2 @@
+Este archivo lo colocamos para que lo volvamos a subir al git
+en otra palabras trabajaremos el codigo de nuevo
